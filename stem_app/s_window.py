@@ -13,14 +13,18 @@ class MemoryGame:
         self.flipped = [False] * 16
         self.num_flipped = 0
         self.prev_idx = None
+        self.prev_idx2 = None
         
         self.buttons = []
+        
+        self.card_back_image = tk.PhotoImage(file="card_back.png")
+        self.card_images = [tk.PhotoImage(file=card) for card in self.cards]
         
         for i in range(4):
             row = []
             for j in range(4):
                 idx = i * 4 + j
-                button = tk.Button(self.root, image=tk.PhotoImage(file="card_back.png"), command=lambda idx=idx: self.flip_card(idx))
+                button = tk.Button(self.root, image=self.card_back_image, command=lambda idx=idx: self.flip_card(idx))
                 button.grid(row=i, column=j, padx=5, pady=5)
                 row.append(button)
             self.buttons.append(row)
@@ -32,26 +36,28 @@ class MemoryGame:
         self.flipped[idx] = True
         self.num_flipped += 1
         
-        self.buttons[idx].config(image=tk.PhotoImage(file=self.cards[idx]))
+        self.buttons[idx // 4][idx % 4].config(image=self.card_images[idx])
         
         if self.num_flipped == 2:
-            self.root.after(1000, self.check_match)
-            self.prev_idx = idx
+            self.prev_idx2 = idx
+            self.root.after(2000, self.check_match)
         else:
             self.prev_idx = idx
     
     def check_match(self):
-        if self.cards[self.prev_idx] == self.cards[self.prev_idx]:
-            self.buttons[self.prev_idx].config(state=tk.DISABLED)
-            self.buttons[idx].config(state=tk.DISABLED)
+        if self.cards[self.prev_idx] == self.cards[self.prev_idx2]:
+            self.buttons[self.prev_idx // 4][self.prev_idx % 4].config(state=tk.DISABLED)
+            self.buttons[self.prev_idx2 // 4][self.prev_idx2 % 4].config(state=tk.DISABLED)
+        else:
+            self.buttons[self.prev_idx // 4][self.prev_idx % 4].config(image=self.card_back_image)
+            self.buttons[self.prev_idx2 // 4][self.prev_idx2 % 4].config(image=self.card_back_image)
         
-        for i in range(16):
-            if not self.flipped[i]:
-                self.buttons[i].config(image=tk.PhotoImage(file="card_back.png"))
+        self.flipped[self.prev_idx] = False
+        self.flipped[self.prev_idx2] = False
         
-        self.flipped = [False] * 16
         self.num_flipped = 0
         self.prev_idx = None
+        self.prev_idx2 = None
 
 def open_s_window():
     s_window = tk.Toplevel()
