@@ -13,7 +13,7 @@ class AreaCalculator:
         
         self.sublevels = [
             {"text": "Calcular àrea", "function": self.open_area_sublevel},
-            {"text": "Calcular Catets (Pythagorean Theorem)", "function": self.open_cathetus_sublevel},
+            {"text": "Calcular Catets (Pitàgores)", "function": self.open_cathetus_sublevel},
             {"text": "Calcular Perímetre", "function": self.open_perimeter_sublevel}
         ]
         

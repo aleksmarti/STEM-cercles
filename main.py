@@ -9,7 +9,7 @@ from stem_app.m_window import open_m_window
 class STEMApp:
     def __init__(self, root):
         self.root = root
-        self.root.title("STEM App")
+        self.root.title("STEM PREPARADES App")
         
         self.canvas = tk.Canvas(self.root, width=1000, height=500)
         self.canvas.pack()
