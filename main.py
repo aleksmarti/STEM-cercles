@@ -34,15 +34,15 @@ class STEMApp:
         self.canvas.tag_bind(self.circle_m, '<Button-1>', self.open_m)
         
         # Carregar y mostrar la imatge de la dona
-        self.woman_photo = tk.PhotoImage(file="woman.png")  # Canviar "woman.png" por la meva imatge
+        self.woman_photo = tk.PhotoImage(file="woman.png")  # Canviar "woman.png" per la meva imatge
         
         self.woman_label = tk.Label(self.root, image=self.woman_photo)
         self.woman_label.image = self.woman_photo  # Mantenir referència per evitar eliminació
         self.woman_label.place(x=370, y=220)
 
         # Bafarada del diàleg
-        self.dialog_label = tk.Label(self.root, text="Benvinguts al joc,nosaltres som dones STEM, selecciona uns dels nivells", bg="white")
-        self.dialog_label.place(x=450, y=400)
+        self.dialog_label = tk.Label(self.root, text="Benvinguts al joc,nosaltres som les dones STEM, selecciona uns dels nivells", bg="white")
+        self.dialog_label.place(x=400, y=400)
         self.dialog_visible = False
         
     

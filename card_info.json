@@ -1,42 +1,42 @@
 {
   "image1.png": {
     "imagen": "image1.png",
-    "titulo": "Carta 1",
-    "descripcion": "Esta es la carta número 1."
+    "titulo": "Rosalin Franklin",
+    "descripcion": "Franklin tomó las imágenes de ADN por difracción de rayos X durante su estancia en el King's College, en Londres. Estas imágenes, que sugerían una estructura helicoidal y que permitieron generar inferencias sobre detalles claves acerca del ADN, fueron mostradas por Wilkins a Watson.18​ Según Francis Crick, la investigación y datos obtenidos por ella fueron clave para la determinación del modelo de Watson y Crick de la doble hélice del ADN en 1953.19​20​ Watson confirmó esta opinión a través de una afirmación propia en la inauguración del edificio Franklin-Wilkins en el 2000."
   },
   "image2.png": {
     "imagen": "image2.png",
-    "titulo": "Carta 2",
-    "descripcion": "Esta es la carta número 2."
+    "titulo": "Esther Lederberg",
+    "descripcion": "Lederberg se quedó en la Universidad de Wisconsin la mayor parte de la década de 1950. Allí descubrió el bacteriófago lambda, empezó a investigar sobre la relación entre la transducicón y el ciclo lisogénico de dicho fago, descubrió el factor de fertilidad de E. coli junto a Luigi Luca Cavalli-Sforza, ingenió la primera implementación exitosa del método de réplica en placa junto a Joshua Lederberg, y ayudó a descubrir y entender los mecanismos genéticos de la transducción especializada.10​ Estas contribuciones fueron la base de gran parte del trabajo en genética posterior."
   },
   "image3.png": {
     "imagen": "image3.png",
-    "titulo": "Carta 3",
-    "descripcion": "Esta es la carta número 3."
+    "titulo": "Nettie Stevens",
+    "descripcion": "Stevens comprobó que las células somáticas de la hembra contenían veinte cromosomas grandes, es decir, diez parejas mayores, mientras que las masculinas tenían diecinueve grandes y una pequeña, es decir, nueve parejas de cromosomas grandes y otra constituida por un cromosoma grande y otro pequeño. La investigadora llegó a la conclusión de que los espermatozoides que poseían un cromosoma pequeño eran los que determinaban el sexo masculino, y aquellos que tenían los diez cromosomas del mismo tamaño determinaban el sexo femenino. En otras palabras, considerando que en la terminología moderna el cromosoma pequeño se llama cromosoma Y, mientras que su pareja homóloga grande se llama cromosoma X. Descubrió que el sexo está determinado por una única diferencia entre dos clases de espermatozoides: los que poseen el cromosoma X y los que poseen el cromosoma Y. En sus artículos, dos monografías de 75 páginas, Stevens concluía correctamente que un óvulo fecundado por un espermatozoide portador de X producía una hembra y, por el contrario, si el espermatozoide llevaba el cromosoma Y, daría lugar a un macho."
   },
   "image4.png": {
     "imagen": "image4.png",
-    "titulo": "Carta 4",
-    "descripcion": "Esta es la carta número 4."
+    "titulo": "Ida Tackle",
+    "descripcion": "Química y física alemana. Nacida en Lackhausen (Renania del Norte-Westfalia), fue una de las primeras mujeres alemanas en realizar estudios superiores de ingeniería química, en la Universidad Técnica de Charlottenburg (Berlín). Licenciada (1919) y doctorada con una tesis sobre los ácidos grasos (1921), trabajó para las compañías AEG (1921-23) y Siemens & Halske (1924-25). Entre 1925 y 1935, estuvo en el Instituto Imperial de Física y Técnica de Berlín. Allí conoció al también químico Walter Noddack (1893-1960) con el que se casaría en 1926. Un año antes, los dos junto al experto en rayos X Otto Berg (1878-1939) descubrieron el elemento 75 previsto en la tabla periódica elaborada en 1869 por el ruso Dmitri Mendeleiev (1834-1907). Lo bautizaron “Rhenium”, de Rhenus, nombre latino del río Rin. Se trata de un metal rarísimo en la naturaleza (un gramo por cada 660 kilos de molibdeno) y de hecho ha sido el último elemento de la tabla en hallarse en su forma natural. Sus principales yacimientos se encuentran hoy en Chile y Kazajistán."
   },
   "image5.png": {
     "imagen": "image5.png",
-    "titulo": "Carta 5",
-    "descripcion": "Esta es la carta número 5."
+    "titulo": "Carol Greider",
+    "descripcion": "Descubridora de la telomerasa, una enzima que forma los telómeros durante la duplicación del ADN. Recibió junto con Elizabeth Blackburn y Jack Szostak en 2009 el Premio Nobel de Medicina. Dicho premio ha estado rodeado de controversia debido a la autoría por Bret Weinstein del trabajo académico originario que supuestamente inició dicho estudio, autor que pasó sin reconocimiento alguno en el laureado estudio."
   },
   "image6.png": {
     "imagen": "image6.png",
-    "titulo": "Carta 6",
-    "descripcion": "Esta es la carta número 6."
+    "titulo": "Hedy Lamarr",
+    "descripcion": "Hedy Lamarr presentó en 1941 “Sistema de comunicación secreta” la solicitud de patente de lo que hoy conocemos como wifi. Este sistema de comunicaciones estaba basado en las 88 teclas de un piano y era capaz de evitar las escuchas del enemigo."
   },
   "image7.png": {
     "imagen": "image7.png",
-    "titulo": "Carta 7",
-    "descripcion": "Esta es la carta número 7."
+    "titulo": "Margaret Hamilton",
+    "descripcion": "El 22 de noviembre de 2016, Hamilton recibió la Medalla Presidencial de la Libertad, entregada por el expresidente de Estados Unidos Barack Obama, por su trabajo en la NASA durante las misiones Apolo. Su enfoque del diseño de software fue pionero para la época, ya que los requisitos de robustez y tolerancia a fallos eran una prioridad para la seguridad y supervivencia de los astronautas durante los viajes a la Luna, es por esto que para muchos Margaret Hamilton es considerada una de las primeras personas en convertirse en Ingeniera de Confiabilidad del Sitio (del inglés Site Reliability Engineer)."
   },
   "image8.png": {
     "imagen": "image8.png",
-    "titulo": "Carta 8",
-    "descripcion": "Esta es la carta número 8."
+    "titulo": "Flora de Pablo",
+    "descripcion": "De Pablo considera que su mayor logro es 'haber caracterizado a la Proinsulina como proteína con actividad propia, no solo como precursora de la insulina, haber mostrado que es importante para la supervivencia celular, y haber contribuido a conocer mejor su compleja regulación génica fuera del páncreas.'"
   }
 }
