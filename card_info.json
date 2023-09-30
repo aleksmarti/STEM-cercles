@@ -1,42 +1,42 @@
 {
   "image1.png": {
     "imagen": "image1.png",
-    "titulo": "Rosalin Franklin",
-    "descripcion": "Franklin tomó las imágenes de ADN por difracción de rayos X durante su estancia en el King's College, en Londres. Estas imágenes, que sugerían una estructura helicoidal y que permitieron generar inferencias sobre detalles claves acerca del ADN, fueron mostradas por Wilkins a Watson.18​ Según Francis Crick, la investigación y datos obtenidos por ella fueron clave para la determinación del modelo de Watson y Crick de la doble hélice del ADN en 1953.19​20​ Watson confirmó esta opinión a través de una afirmación propia en la inauguración del edificio Franklin-Wilkins en el 2000."
+    "titulo": "Rosalind Franklin (1920-58)",
+    "descripcion": "Saps qui va descobrir l'estructura de l'ADN? Doncs va ser Rosalind Franklin. Mitjançant la seva tècnica de difracció de raigs X, va capturar la imatge icònica Fotografia 51, que va proporcionar pistes crucials per a la comprensió de la doble hélix de l'ADN determinada, posteriorment, per Watson i Crick. Tot i la seva gran aportació, van ser premiats al Premi Nobel de la Medicina ells i no Franklin, ella no va rebre ni un mínim reconeixement durant la seva vida.  "
   },
   "image2.png": {
     "imagen": "image2.png",
-    "titulo": "Esther Lederberg",
-    "descripcion": "Lederberg se quedó en la Universidad de Wisconsin la mayor parte de la década de 1950. Allí descubrió el bacteriófago lambda, empezó a investigar sobre la relación entre la transducicón y el ciclo lisogénico de dicho fago, descubrió el factor de fertilidad de E. coli junto a Luigi Luca Cavalli-Sforza, ingenió la primera implementación exitosa del método de réplica en placa junto a Joshua Lederberg, y ayudó a descubrir y entender los mecanismos genéticos de la transducción especializada.10​ Estas contribuciones fueron la base de gran parte del trabajo en genética posterior."
+    "titulo": "Esther Lederberg (1922-2006)",
+    "descripcion": "Esther Lederberg va ser una microbiòloga pionera. Va col·laborar amb el seu marit, Joshua Lederberg, en la descoberta de la conjugació bacteriana i va ser una líder en la genètica bacteriana. El seu treball va ser fonamental per al desenvolupament de la microbiologia molecular."
   },
   "image3.png": {
     "imagen": "image3.png",
-    "titulo": "Nettie Stevens",
-    "descripcion": "Stevens comprobó que las células somáticas de la hembra contenían veinte cromosomas grandes, es decir, diez parejas mayores, mientras que las masculinas tenían diecinueve grandes y una pequeña, es decir, nueve parejas de cromosomas grandes y otra constituida por un cromosoma grande y otro pequeño. La investigadora llegó a la conclusión de que los espermatozoides que poseían un cromosoma pequeño eran los que determinaban el sexo masculino, y aquellos que tenían los diez cromosomas del mismo tamaño determinaban el sexo femenino. En otras palabras, considerando que en la terminología moderna el cromosoma pequeño se llama cromosoma Y, mientras que su pareja homóloga grande se llama cromosoma X. Descubrió que el sexo está determinado por una única diferencia entre dos clases de espermatozoides: los que poseen el cromosoma X y los que poseen el cromosoma Y. En sus artículos, dos monografías de 75 páginas, Stevens concluía correctamente que un óvulo fecundado por un espermatozoide portador de X producía una hembra y, por el contrario, si el espermatozoide llevaba el cromosoma Y, daría lugar a un macho."
-  },
-  "image4.png": {
+    "titulo": "Nettie Stevens(1861-1912)",
+    "descripcion": "Nettie Stevens va ser una destacada biòloga i genetista estatunidenca. Va fer descobriments rellevants en l'enteniment de la determinació del sexe mitjançant els cromosomes. Va proposar la teoria que els cromosomes X i Y determinen el sexe en moltes espècies, una idea fonamental en la genètica. Stevens va contribuir significativament a la comprensió de la genètica de l'herència."
+    },
+    "image4.png": {
     "imagen": "image4.png",
-    "titulo": "Ida Tackle",
-    "descripcion": "Química y física alemana. Nacida en Lackhausen (Renania del Norte-Westfalia), fue una de las primeras mujeres alemanas en realizar estudios superiores de ingeniería química, en la Universidad Técnica de Charlottenburg (Berlín). Licenciada (1919) y doctorada con una tesis sobre los ácidos grasos (1921), trabajó para las compañías AEG (1921-23) y Siemens & Halske (1924-25). Entre 1925 y 1935, estuvo en el Instituto Imperial de Física y Técnica de Berlín. Allí conoció al también químico Walter Noddack (1893-1960) con el que se casaría en 1926. Un año antes, los dos junto al experto en rayos X Otto Berg (1878-1939) descubrieron el elemento 75 previsto en la tabla periódica elaborada en 1869 por el ruso Dmitri Mendeleiev (1834-1907). Lo bautizaron “Rhenium”, de Rhenus, nombre latino del río Rin. Se trata de un metal rarísimo en la naturaleza (un gramo por cada 660 kilos de molibdeno) y de hecho ha sido el último elemento de la tabla en hallarse en su forma natural. Sus principales yacimientos se encuentran hoy en Chile y Kazajistán."
+    "titulo": "Ida Tackle (1896-1978)",
+    "descripcion": "Clara Immerwahr Noddack va ser una científica alemanya. Va suggerir la fissió nuclear l'any 1934, basant-se en experiments d'Enrico Fermi. Va descobrir l'element 75, el reni, l'any 1925, amb el seu marit Walter Noddack i Otto Berg. Les seves contribucions a la química i la física nuclear són rellevants.."
   },
   "image5.png": {
     "imagen": "image5.png",
-    "titulo": "Carol Greider",
-    "descripcion": "Descubridora de la telomerasa, una enzima que forma los telómeros durante la duplicación del ADN. Recibió junto con Elizabeth Blackburn y Jack Szostak en 2009 el Premio Nobel de Medicina. Dicho premio ha estado rodeado de controversia debido a la autoría por Bret Weinstein del trabajo académico originario que supuestamente inició dicho estudio, autor que pasó sin reconocimiento alguno en el laureado estudio."
+    "titulo": "Carol Greider (1961-actualitat)",
+    "descripcion": "Descobridora de la telomerasa, un enzim que forma els telòmers durant la duplicació de l'ADN. Va rebre juntament amb Elizabeth Blackburn i Jack Szostak el 2009 el Premi Nobel de Medicina. Aquest premi ha estat envoltat de controvèrsia a causa de l'autoria per Bret Weinstein del treball acadèmic originari que suposadament va iniciar aquest estudi, autor que va passar sense cap reconeixement al llorejat estudi."
   },
   "image6.png": {
     "imagen": "image6.png",
-    "titulo": "Hedy Lamarr",
-    "descripcion": "Hedy Lamarr presentó en 1941 “Sistema de comunicación secreta” la solicitud de patente de lo que hoy conocemos como wifi. Este sistema de comunicaciones estaba basado en las 88 teclas de un piano y era capaz de evitar las escuchas del enemigo."
+    "titulo": "Hedy Lamarr (1914-2000)",
+    "descripcion": "Saps qui va inventar el Wi-Fi? Doncs va ser una dona, en concret, Hedy Lamarr va demanar el 1941  la sol·licitud de patent del que avui coneixem com a wifi, però no se li va reconèixer fins més tard. Aquest sistema de comunicacions es basava en les 88 tecles d'un piano i era capaç d'evitar les escoltes de l'enemic."
   },
   "image7.png": {
     "imagen": "image7.png",
-    "titulo": "Margaret Hamilton",
-    "descripcion": "El 22 de noviembre de 2016, Hamilton recibió la Medalla Presidencial de la Libertad, entregada por el expresidente de Estados Unidos Barack Obama, por su trabajo en la NASA durante las misiones Apolo. Su enfoque del diseño de software fue pionero para la época, ya que los requisitos de robustez y tolerancia a fallos eran una prioridad para la seguridad y supervivencia de los astronautas durante los viajes a la Luna, es por esto que para muchos Margaret Hamilton es considerada una de las primeras personas en convertirse en Ingeniera de Confiabilidad del Sitio (del inglés Site Reliability Engineer)."
+    "titulo": "Margaret Hamilton (1936-actualitat)",
+    "descripcion": "Oi que sabeu que l'any 1969, Apolo 11 va arribar a la Lluna? Però sabeu qui ho va fer possible? Dins de l'equip de la NASA va haver-hi moltes dones i, Margaret Hamilton va ser molt important pel seu treball, ja que va dissenyar un programa que ho tenia tot controlat per si durant el viatge a la Lluna hi havia algun problema o fallada. L'any 2016, Obama li va donar, en reconeixament, una medalla."
   },
   "image8.png": {
     "imagen": "image8.png",
-    "titulo": "Flora de Pablo",
-    "descripcion": "De Pablo considera que su mayor logro es 'haber caracterizado a la Proinsulina como proteína con actividad propia, no solo como precursora de la insulina, haber mostrado que es importante para la supervivencia celular, y haber contribuido a conocer mejor su compleja regulación génica fuera del páncreas.'"
+    "titulo": "Flora de Pablo (1952-actualitat)",
+    "descripcion": "Es considera que l'éxit més gran de Flora De Pablo és haver-se caracteritzat a la Proinsulina com a proteïna amb activitat pròpia, no només com a precursora de la insulina, haver mostrat que és important per a la supervivència cel·lular, i haver contribuït a conèixer millor la seva complexa regulació gènica fora del pàncrees.'"
   }
 }

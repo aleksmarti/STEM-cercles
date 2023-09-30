@@ -42,7 +42,7 @@ class STEMApp:
 
         # Bafarada del diàleg
         self.dialog_label = tk.Label(self.root, text="Benvinguts al joc,nosaltres som les dones STEM, selecciona uns dels nivells", bg="white")
-        self.dialog_label.place(x=400, y=400)
+        self.dialog_label.place(x=400, y=500)
         self.dialog_visible = False
         
     
@@ -67,3 +67,4 @@ if __name__ == "__main__":
     root = tk.Tk()
     app = STEMApp(root)
     app.run()
+
