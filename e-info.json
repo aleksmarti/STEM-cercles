@@ -1,0 +1,19 @@
+{
+    "curiositats": [
+        {
+            "foto": "sophie.png",
+            "títol": "SABIES QUE",
+            "text": "Sophie Germain (1776) es va haver de disfressar sota el nom de LeBlanc perquè en aquella època les dones no eren acceptades en el món de les matemàtiques i quan va morir, tristament, en el seu certificat de defunció la va identificar simplement com a rendista, sense esmentar els seus èxits en matemàtiques i ciència."
+        },
+        {
+            "foto": "cecilia.png",
+            "titol": "SABIES QUE",
+            "text": "Avui en dia, tothom sap que Newton va descobrir la gravetat, que Darwin va descobrir l'evolució, i que Einstein va descobrir la relativitat. Però quan es tracta de la composició del nostre univers, els llibres de text diuen simplement que l'àtom més abundant de l'univers és l'hidrogen. I ningú no es pregunta com sabem qui ho va descriure així.  La realitat és que Cecilia Payne és la responsable d'aquest descobriment."
+        },
+        {
+            "foto": "hamilton.gif",
+            "titol": "SABIES QUE",
+            "text": "Margaret Hamilton va ser una figura clau pel desenvolupament del programari de navegació per a la missió Apol·lo de la NASA que va portar a l'arribada de l'home a la Lluna. El conjunt del codi era més alt que ella!"
+        }
+    ]
+}
