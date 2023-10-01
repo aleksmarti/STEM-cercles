@@ -40,10 +40,14 @@ class STEMApp:
         self.woman_label.image = self.woman_photo  # Mantenir referència per evitar eliminació
         self.woman_label.place(x=370, y=220)
 
-        # Bafarada del diàleg
-        self.dialog_label = tk.Label(self.root, text="Benvinguts al joc,nosaltres som les dones STEM, selecciona uns dels nivells", bg="white")
-        self.dialog_label.place(x=400, y=500)
-        self.dialog_visible = False
+        # Text del diàleg 1
+        self.dialog_label1 = tk.Label(self.root, text="Benvinguts al joc, nosaltres som les dones STEM, selecciona uns dels nivells", bg="white")
+        self.dialog_label1.place(x=400, y=500)
+
+        # Text del diàleg 2
+        self.dialog_label2 = tk.Label(self.root, text="© Laia Martí Badia- Treball de recerca 2023") 
+        self.dialog_label2.place(x=500, y=10)  
+
         
     
         
